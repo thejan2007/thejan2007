@@ -122,6 +122,12 @@ print(developer.mission())
 
 ---
 
+# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thejan2007/thejan2007/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+
 # 🌐 Connect
 
 <div align="center">
