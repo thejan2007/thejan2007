@@ -96,43 +96,13 @@ print(developer.mission())
 
 # 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejan2007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thejan2007&theme=radical&hide_border=true" width="48%" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejan2007&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=thejan2007&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thejan2007&theme=react-dark&bg_color=0D1117&hide_border=true&line=00F5FF&point=00F5FF&area=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thejan2007&theme=algolia&no-bg=true&no-frame=true&margin-w=10"/>
-
-</div>
 
 ---
 
@@ -148,13 +118,7 @@ print(developer.mission())
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/thejan2007/thejan2007/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
