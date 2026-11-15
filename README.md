@@ -53,16 +53,12 @@ Hi! I'm **Hansaka Thejan Bandara**, a Software Engineering student at **Java Ins
 
 ---
 
+
 ## `03 // GITHUB TELEMETRY`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=thejan2007&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9E8F5&icon_color=00BFEA&include_all_commits=true" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejan2007&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9E8F5" alt="Most used languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=thejan2007&hide_border=true&background=020617&ring=00E5FF&fire=00BFEA&currStreakLabel=00E5FF&sideLabels=C9E8F5&dates=8AAFC2&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+<img src="./github-metrics.svg" width="100%" alt="GitHub Metrics"/>
 
 </div>
 
